@@ -1,0 +1,17 @@
+numpy
+opencv-python
+Pillow
+matplotlib
+scikit-image
+scipy
+pytesseract
+PyMuPDF
+shapely
+trimesh
+pyyaml
+pandas
+rich
+mapbox-earcut
+mapbox_earcut
+triangle
+manifold3d

@@ -1,0 +1,6 @@
+scale_m_per_px: 0.01
+default_wall_height_m: 3.0
+default_wall_thickness_m: 0.2
+min_room_area_px: 1500
+pdf_dpi: 300
+door_template_threshold: 0.72
